@@ -5183,10 +5183,10 @@ globby@^8.0.0:
     pify "^3.0.0"
     slash "^1.0.0"
 
-google-libphonenumber@^3.0.6:
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/google-libphonenumber/-/google-libphonenumber-3.1.4.tgz#aadf7063f391761dedf460c54cfe860512f23147"
-  integrity sha512-wv881Qhttx/AQOjcjedJTPMV0klQGtn4mS6A/zSeGKIt8dZMb+G41/AhQ6xRrgf91ex6Z0HMB5WIJSdfrR2JDA==
+google-libphonenumber@^3.2.21:
+  version "3.2.21"
+  resolved "https://registry.yarnpkg.com/google-libphonenumber/-/google-libphonenumber-3.2.21.tgz#6c01e037ef580dd5c580e6bf3129aa6c1581969f"
+  integrity sha512-d8dMePLPIZXHGEvyGM4PTEPBxXC29mhXtqruD11iZd9KzyKb216kJuBPZq6m3BTmiI5ZiIb4epzrZsatRJ5ZaA==
 
 got@^7.0.0:
   version "7.1.0"
